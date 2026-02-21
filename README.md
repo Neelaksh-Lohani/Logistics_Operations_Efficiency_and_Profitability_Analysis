@@ -79,7 +79,7 @@ One-to-many relationships were established between dimension tables and the prim
 
 ---
 
-C:\Temp\2_PortfolioPj\Project_Pics
+https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_1.png
 
 ---
 
@@ -102,7 +102,7 @@ Key performance indicators include:
 
 This dashboard evaluates delivery performance across operational regions to identify fulfillment inefficiencies impacting logistics cost and profitability.
 
-C:\Temp\2_PortfolioPj\Project_Pics
+https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_2.png
 
 ---
 
@@ -110,7 +110,7 @@ C:\Temp\2_PortfolioPj\Project_Pics
 
 This dashboard analyzes the impact of shipping mode selection and product category characteristics on logistics cost and transactional profitability.
 
-C:\Temp\2_PortfolioPj\Project_Pics
+https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_3.png
 
 ---
 
