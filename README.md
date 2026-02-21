@@ -79,7 +79,7 @@ One-to-many relationships were established between dimension tables and the prim
 
 ---
 
-https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_1.png
+![Dashboard 1](save_1.png)
 
 ---
 
