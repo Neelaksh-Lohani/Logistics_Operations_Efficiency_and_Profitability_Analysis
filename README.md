@@ -102,7 +102,7 @@ Key performance indicators include:
 
 This dashboard evaluates delivery performance across operational regions to identify fulfillment inefficiencies impacting logistics cost and profitability.
 
-https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_2.png
+![Dashboard 1](save_2.png)
 
 ---
 
@@ -110,7 +110,7 @@ https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitabi
 
 This dashboard analyzes the impact of shipping mode selection and product category characteristics on logistics cost and transactional profitability.
 
-https://github.com/Neelaksh-Lohani/Logistics_Operations_Efficiency_and_Profitability_Analysis/blob/main/save_3.png
+![Dashboard 1](save_3.png)
 
 ---
 
