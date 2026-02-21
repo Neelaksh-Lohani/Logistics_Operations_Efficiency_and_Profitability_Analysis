@@ -1,0 +1,47 @@
+1.) Total Orders
+Total Orders =
+COUNT(ops_analysis_orders[order_id])
+
+
+2.) Average Fulfillment Time
+Avg Shipping Days =
+AVERAGE(ops_analysis_orders[shipping_days])
+
+
+3.) Late Delivery Rate (%)
+Late Shipment % =
+DIVIDE(
+    CALCULATE(
+        COUNT(ops_analysis_orders[order_id]),
+        ops_analysis_orders[delivery_status] = "Late Delivery"
+    ),
+    [Total Orders]
+)
+
+
+4.) Profit Margin (%)
+Profit Margin % =
+DIVIDE(
+    SUM(ops_analysis_orders[profit]),
+    SUM(ops_analysis_orders[sales])
+)
+
+
+5.) Profit Margin (%)
+Profit Margin % =
+DIVIDE(
+    SUM(ops_analysis_orders[profit]),
+    SUM(ops_analysis_orders[sales])
+)
+
+
+6.) Average Shipping Cost
+Avg Shipping Cost =
+AVERAGE(ops_analysis_orders[shipping_cost])
+
+
+7.) Total Logistics Spend
+Total Shipping Cost =
+SUM(ops_analysis_orders[shipping_cost])
+
+
